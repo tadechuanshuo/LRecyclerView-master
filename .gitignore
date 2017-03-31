@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 /build
 ### Android template
+=======
+>>>>>>> a3403d3b86705c46f4861f11fd5c4cd2cc1d6218
 # Built application files
 *.apk
 *.ap_
@@ -36,6 +39,7 @@ captures/
 
 # Intellij
 *.iml
+<<<<<<< HEAD
 .idea/
 
 # Keystore files
@@ -43,3 +47,9 @@ captures/
 
 /art
 
+=======
+.idea/workspace.xml
+
+# Keystore files
+*.jks
+>>>>>>> a3403d3b86705c46f4861f11fd5c4cd2cc1d6218
